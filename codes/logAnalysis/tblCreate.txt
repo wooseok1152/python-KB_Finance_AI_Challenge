@@ -1,0 +1,11 @@
+- table creation
+
+create table LOGS(
+    ip varchar(30) not null,
+    accessTime varchar not null,
+    method varchar(20) not null,
+    url varchar not null,
+    statusCode int not null,
+    referer varchar,
+    userID int
+);

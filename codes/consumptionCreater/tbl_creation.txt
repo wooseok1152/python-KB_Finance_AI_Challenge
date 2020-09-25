@@ -1,0 +1,19 @@
+create table CONSUMPTION(
+	userID int not null,
+	a double precision not null,
+	b double precision not null,
+	c double precision not null,
+	d double precision not null,
+	e double precision not null,
+	f double precision not null,
+	g double precision not null,
+	h double precision not null,
+	i double precision not null,
+	j double precision not null,
+	k double precision not null,
+	l double precision not null,
+	m double precision not null,
+	n double precision not null,
+	o double precision not null,
+	consumeDate date not null
+);

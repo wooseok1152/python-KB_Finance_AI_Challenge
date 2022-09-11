@@ -2,11 +2,9 @@
 * MY-FAI 발표자료.pdf
   * 본선 발표 자료
 <br>
-<br>
 
 * MY-FAI 시연 영상.mp4
   * 본선 발표 첨부 영상 자료
-<br>
 <br>
 
 * Creating & Parsing Data[5-2 시뮬레이션 데이터 생성 보충자료].pdf
